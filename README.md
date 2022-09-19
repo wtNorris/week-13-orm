@@ -13,13 +13,14 @@
   
 ## Installation
   See videos for demonstration of installation. 
+  Video can be found: https://drive.google.com/file/d/1CAfsOVT5RQNz9VDUBpyeNsoWX5TiTYsQ/view
 
 ## Usage
   Run npm run seed and mySQL to launch code. (See videos for full instructions/usage.)
   Navigate to insomnia to test POST, PUT, and DELETE routes for categories, products, and tags.
 
 ## Tests
-  See included video for testing run via Insomnia Core
+  See included video (above) for testing run via Insomnia Core
 
 # Questions
   Please direct questions about this project to:
